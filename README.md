@@ -1,2 +1,5 @@
 # devops-aula02
-Jim Carrey, Will Smith e Rachel Mc Adams
+Robert Downey Jr
+Will Smith
+Jim Carrey
+Rachel Mc Adams
